@@ -23,7 +23,7 @@ iii) Decision Tree<br>
 iv) Random Forest<br>
 v) Naive Bayes
 
-<b>(d)Real-time Applications:<b>
+<b>(d)Real-time Applications:</b>
 
 a) Chatbots: Integrating the emotion detection model into chatbots for more empathetic and context-aware responses.<br>
 b) Sentiment Analysis Tools: Creating tools for analyzing sentiments in social media or customer feedback.
