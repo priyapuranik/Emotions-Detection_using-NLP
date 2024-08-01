@@ -10,8 +10,8 @@ Gathered a dataset of text samples labeled with emotions.
 
 <b>Data Preprocessing:</b>
 
---Text cleaning, including removal of stop words, punctuation, and special characters.
---Tokenization and lemmatization of words.
+--Text cleaning, including removal of stop words, punctuation, and special characters.<br>
+--Tokenization and lemmatization of words.<br>
 --Converting text into numerical representations by using pandas replace function.
 
 <b>Model Building:</b>
