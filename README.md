@@ -16,7 +16,7 @@ Gathered a dataset of text samples labeled with emotions.
 
 <b>(c)Model Building:</b>
 
-Implemented various machine learning and deep learning models, such as:
+Implemented various machine learning and deep learning models, such as:<br>
 i) Logistic Regression<br>
 ii) Support Vector Machines (SVM)<br>
 iii) Decision Tree<br>
@@ -25,5 +25,5 @@ v) Naive Bayes
 
 <b>(d)Real-time Applications:<b>
 
-a) Chatbots: Integrating the emotion detection model into chatbots for more empathetic and context-aware responses.
+a) Chatbots: Integrating the emotion detection model into chatbots for more empathetic and context-aware responses.<br>
 b) Sentiment Analysis Tools: Creating tools for analyzing sentiments in social media or customer feedback.
