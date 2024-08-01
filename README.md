@@ -6,7 +6,7 @@ In this project, I focused on the following steps:
 
 In this project, I focused on the following steps:
 
-<b>Data Collection:<b>
+<b>Data Collection:</b>
 
 Gathered a dataset of text samples labeled with emotions.
 Data Preprocessing:
